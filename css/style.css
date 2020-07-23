@@ -25,9 +25,8 @@ letter-spacing: 0.03em;
 color: #000000;}
 .logo-first-part {
 color: #2196F3;}
-.logo:focus
-
-.navigation-item-title {
+.navigation-item-title,
+.header-contacts-item-title {
 font-family: var(--main-font);
 font-weight: 500;
 font-size: 14px;
@@ -35,12 +34,7 @@ line-height: 1.14;
 letter-spacing: 0.02em;
 color: #212121;}
 .header-contacts-item-title {
-font-family: var(--main-font);
 font-style: normal;
-font-weight: 500;
-font-size: 14px;
-line-height: 1.14;
-letter-spacing: 0.02em;
 color: #757575;}
 .navigation-item-title:hover,
 .navigation-item-title:focus,
