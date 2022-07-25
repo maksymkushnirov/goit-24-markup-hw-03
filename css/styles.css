@@ -355,7 +355,7 @@ body {
   color: var(--color-white-primary);
 }
 
-/* Team */
+/* section-team */
 
 .team-list {
   display: flex;
@@ -384,7 +384,7 @@ body {
   font-size: 16px;
   line-height: 1.19;
   text-align: center;
-  color: var(--secondary-text-color);
+  color: var(--color-text-secondary);
 }
 
 .team-list .text {
@@ -416,7 +416,7 @@ body {
 
 .team-list .social-wrapper:hover,
 .team-list .social-wrapper:focus {
-  background-color: var(--accent-color);
+  background-color: var(--color-accent);
 }
 
 /* Clients */
