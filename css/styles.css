@@ -419,7 +419,7 @@ body {
   background-color: var(--color-accent);
 }
 
-/* Clients */
+/* section-clients */
 
 .clients-list {
   display: flex;
@@ -442,7 +442,7 @@ body {
 
 .clients-list .logo:hover,
 .clients-list .logo:focus {
-  border-color: var(--accent-color);
+  border-color: var(--color-accent);
 }
 
 /* Button */
