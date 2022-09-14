@@ -2,10 +2,12 @@
 
 Блокова модель + Флексбокс
 
-Template:
+Template:\
 https://www.figma.com/file/MXH6NI9ZA8u9GS0fGChENn/Web-Studio?node-id=0%3A1
 
-Task: https://github.com/goitacademy/html-css-homework/blob/master/03-flexbox.md
+Task:\
+https://github.com/goitacademy/html-css-homework \
+https://github.com/goitacademy/html-css-homework/blob/master/03-flexbox.md
 
 # Домашнее задание
 
